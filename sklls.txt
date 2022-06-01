@@ -1,0 +1,4 @@
+Basic theory: What is testing, bug reports, documentation
+HTTP: Query methods,Response codes,Structures of HTTP requests and responses
+Mobile testing: Feature of iOS, Android, guidelines,iOS and Android Build
+SQL Basics: Create, Delete, Drop, Insert Into, Select, From, Where, Join
